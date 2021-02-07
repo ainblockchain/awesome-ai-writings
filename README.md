@@ -22,7 +22,7 @@ Contributions most welcome.
 
 
 ## Chatbot
-* [Meena](https://github.com/google-research/google-research/blob/master/meena/meena.txt) - A humna-like chatbot from Google
+* [Meena](https://github.com/google-research/google-research/blob/master/meena/meena.txt) - A human-like chatbot from Google
 
 ## Quotes
 * 
