@@ -41,6 +41,8 @@ Contributions most welcome.
 
 ## Products
 * AI Writers (https://chrome.google.com/webstore/detail/ai-writers-for-chrome/chohmndeijnoehdaldjmdibplafjikno) - a writing assistant powered by GPT-2 models.
+* Copysmith (https://www.copysmith.ai/) - AI Copywriter
+* Job Description AI (https://www.jobdescription.ai/) - generate professional job descriptions 
 
 ## APIs
 * 
