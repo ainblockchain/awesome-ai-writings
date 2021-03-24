@@ -23,10 +23,9 @@ Contributions most welcome.
 
 ## Chatbot
 * [Meena](https://github.com/google-research/google-research/blob/master/meena/meena.txt) - A human-like chatbot from Google
-* GPT3
-Human: What is the purpose of life?
+* GPT3 What is the purpose of life? (https://twitter.com/Siddharth87/status/1283927898865283072) - 
 AI: Life is a beautiful miracle. Life evolves through time into greater forms of beauty. In that sense, the purpose of life is to increase the beauty in the universe.
-https://twitter.com/Siddharth87/status/1283927898865283072
+
 
 ## Quotes
 * 
