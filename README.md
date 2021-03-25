@@ -5,13 +5,13 @@ Contributions most welcome.
 
 ## Contents
 
-1. [Chatbot](#chatbot)
-2. [Quotes](#quotes)
-3. [Discussion](#discussion)
-4. [Q&A](#q&a)
-5. [Novel](#novel)
-6. [Poem](#poem)
-7. [Products](#products)
+1. [Products](#products)
+2. [Chatbot](#chatbot)
+3. [Quotes](#quotes)
+4. [Discussion](#discussion)
+5. [Q&A](#q&a)
+6. [Novel](#novel)
+7. [Poem](#poem)
 8. [APIs](#apis)
 9. [Papers](#papers)
 10. [Code](#code)
@@ -20,6 +20,11 @@ Contributions most welcome.
 13. [Newsletters](#newsletters)
 14. [Misc](#misc)
 
+
+## Products
+* AI Writers (https://chrome.google.com/webstore/detail/ai-writers-for-chrome/chohmndeijnoehdaldjmdibplafjikno) - a writing assistant powered by GPT-2 models.
+* Copysmith (https://www.copysmith.ai/) - AI Copywriter
+* Job Description AI (https://www.jobdescription.ai/) - generate professional job descriptions 
 
 ## Chatbot
 * [Meena](https://github.com/google-research/google-research/blob/master/meena/meena.txt) - A human-like chatbot from Google
@@ -41,11 +46,6 @@ AI: Life is a beautiful miracle. Life evolves through time into greater forms of
 
 ## Poem
 * 
-
-## Products
-* AI Writers (https://chrome.google.com/webstore/detail/ai-writers-for-chrome/chohmndeijnoehdaldjmdibplafjikno) - a writing assistant powered by GPT-2 models.
-* Copysmith (https://www.copysmith.ai/) - AI Copywriter
-* Job Description AI (https://www.jobdescription.ai/) - generate professional job descriptions 
 
 ## APIs
 * 
