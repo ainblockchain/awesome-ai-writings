@@ -34,6 +34,8 @@ AI: Life is a beautiful miracle. Life evolves through time into greater forms of
 
 ## Quotes
 * What fools call “wasting time” is most often the best investment. - GPT3 (https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3)
+* When we have done our best, we should wait the result in peace. - freshly GPT generate qoutes (https://twitter.com/gptwisdom?lang=en)
+* My wife, my dog, my friend, they're still in my life, they still love me! - (https://machineswisdom.com/)
 
 ## Discussion
 *
