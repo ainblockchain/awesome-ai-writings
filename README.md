@@ -25,6 +25,9 @@ Contributions most welcome.
 * AI Writers (https://chrome.google.com/webstore/detail/ai-writers-for-chrome/chohmndeijnoehdaldjmdibplafjikno) - a writing assistant powered by GPT-2 models.
 * Copysmith (https://www.copysmith.ai/) - AI Copywriter
 * Job Description AI (https://www.jobdescription.ai/) - generate professional job descriptions 
+* Jasper AI (https://www.jobdescription.ai/) - AI writer for marketers 
+* Writesonic (https://www.jobdescription.ai/) - AI writer for SEO content teams 
+* Taskade AI (https://www.taskade.com/) - AI outlining and mind mapping tool with collaborative editing 
 
 ## Chatbot
 * [Meena](https://github.com/google-research/google-research/blob/master/meena/meena.txt) - A human-like chatbot from Google
